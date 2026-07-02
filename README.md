@@ -1,15 +1,232 @@
-# 💫 About Me:
-Hi, I'm Aryan Bansal 👋<br><br>🎓 B.Tech CSE student at Bennett University<br>💻 Passionate about Software Development, Data Analysis, AI and web developement<br>🚀 Building projects and continuously learning new technologies<br>🌱 Looking for internships and opportunities to gain industry experience
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Aryan-bnsl/Aryan-bnsl/main/banner.png" width="100%" alt="banner"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aryan-bnsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Aryan-bnsl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryan-bnsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=Aryan-bnsl&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;CSE+Undergrad+%40+Bennett+University;Learning+by+building" alt="typing-svg" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## Introduction
+
+I'm a Computer Science undergrad, currently learning full-stack development and applied AI by building real projects instead of just following tutorials.
+
+I don't have years of production experience — what I have is a habit of finishing what I start, and a growing set of projects that prove it.
+
+<br/><br/>
+
+## About Me
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+B.Tech CSE, Bennett University
+2024 – 2028
+
+**💻 Interests**
+AI integration, backend systems,
+practical product-building
+
+</td>
+<td width="50%" valign="top">
+
+**🚀 Current Goal**
+Land a strong SWE / AI internship
+and build a portfolio that speaks
+before I do
+
+**🧠 Learning**
+System design, advanced DSA,
+scalable backend architecture
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+## Currently Focused On
+
+<div align="center">
+
+`AI Product Development`&nbsp;&nbsp;·&nbsp;&nbsp;`System Design`&nbsp;&nbsp;·&nbsp;&nbsp;`Advanced DSA`&nbsp;&nbsp;·&nbsp;&nbsp;`Backend Engineering`
+
+</div>
+
+<br/><br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+**Backend & Database**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+</div>
+
+<br/><br/>
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🧩 CampusHub**
+Modern college community platform
+
+`Next.js` `TypeScript` `Tailwind`
+
+Highlight: full auth, feed, events and real-time chat in one unified app
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 ReLife AI**
+AI-powered sustainability platform
+
+`Flask` `Gemini Vision API` `Python`
+
+Highlight: uses computer vision to classify waste and drive sustainable action
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Habit Enforcement System**
+Discipline-first habit tracker
+
+`Full Stack` `System Design`
+
+Highlight: built around accountability, not gamification
+
+</td>
+<td width="50%" valign="top">
+
+**🎬 Netflix / IMDb Analyzer**
+Python data analytics project
+
+`Python` `Pandas` `NumPy`
+
+Highlight: end-to-end EDA pipeline surfacing content trends
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ Building Crack Detection**
+Computer vision safety project
+
+`PyTorch` `CNN` `Computer Vision`
+
+Highlight: detects structural cracks from images for early-stage safety checks
+
+</td>
+<td width="50%" valign="top">
+
+**➕ Next Project**
+In progress
+
+`AI` `Full Stack`
+
+This slot updates as new work ships
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+## Journey
+
+<div align="center">
+
+**2024** — Started programming seriously
+<br/>↓<br/>
+**2025** — Built AI-integrated and full-stack projects
+<br/>↓<br/>
+**2026** — Building scalable, production-style products
+<br/>↓<br/>
+**Future** — Software Engineer
+
+</div>
+
+<br/><br/>
+
+## Currently Building
+
+- [x] AI Products
+- [x] DSA
+- [x] Backend Systems
+- [x] System Design
+- [ ] Open Source Contributions
+
+<br/><br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aryan-bnsl&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9A9A9&icon_color=A9A9A9&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-bnsl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9A9A9&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Aryan-bnsl&theme=dark&hide_border=true&background=0D1117&ring=A9A9A9&fire=A9A9A9&currStreakLabel=A9A9A9" />
+
+</div>
+
+<br/><br/>
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://aryanwork.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanbansal01/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aryan-bnsl)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanbnsl890@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aryan-bnsl&style=flat&color=A9A9A9&label=Profile+Views" alt="visitor count"/>
+
+</div>
