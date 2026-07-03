@@ -23,23 +23,23 @@ National Runner-Up
 </td>
 <td align="center" width="25%">
 
-**🎯 Build the Brand**
+**🥉 3rd Place**
 <br/>
-IIT Roorkee
+IIT Roorkee Build the Brand
 
 </td>
 <td align="center" width="25%">
 
-**💼 Web Dev Intern**
+**💼 3 Software Development**
 <br/>
-The Developers Arena
+Internships
 
 </td>
 <td align="center" width="25%">
 
-**⚡ AI & Full Stack**
+**🚀 Building**
 <br/>
-Developer
+AI Products
 
 </td>
 </tr>
