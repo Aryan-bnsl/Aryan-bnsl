@@ -10,6 +10,45 @@
 
 <br/>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🏆 SIH 2025**
+<br/>
+National Runner-Up
+
+</td>
+<td align="center" width="25%">
+
+**🎯 Build the Brand**
+<br/>
+IIT Roorkee
+
+</td>
+<td align="center" width="25%">
+
+**💼 Web Dev Intern**
+<br/>
+The Developers Arena
+
+</td>
+<td align="center" width="25%">
+
+**⚡ AI & Full Stack**
+<br/>
+Developer
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 ## Introduction
 
 I'm a Computer Science undergrad, currently learning full-stack development and applied AI by building real projects instead of just following tutorials.
