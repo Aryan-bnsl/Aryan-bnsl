@@ -201,8 +201,8 @@ This slot updates as new work ships
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aryan-bnsl&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9A9A9&icon_color=A9A9A9&text_color=C9D1D9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-bnsl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9A9A9&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aryan-bnsl&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-bnsl&layout=compact&theme=github_dark&hide_border=true" />
 
 <br/><br/>
 
