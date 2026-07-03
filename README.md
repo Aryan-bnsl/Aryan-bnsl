@@ -211,6 +211,11 @@ This slot updates as new work ships
 </div>
 
 <br/><br/>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan-bnsl/Aryan-bnsl/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## Connect
 
