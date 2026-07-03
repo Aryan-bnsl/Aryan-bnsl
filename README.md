@@ -216,6 +216,11 @@ This slot updates as new work ships
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aryan-bnsl/Aryan-bnsl/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-bnsl&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
 
 ## Connect
 
